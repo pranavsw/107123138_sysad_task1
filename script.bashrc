@@ -4,3 +4,4 @@ echo "alias mentorAllocation='./mentorAllocation.sh'" >> ~/.bashrc
 echo "alias submitTask='./submitTask.sh'" >> ~/.bashrc
 echo "alias displayStatus='./displayStatus.sh'" >> ~/.bashrc
 echo "alias deRegister='./deRegister.sh'" >> ~/.bashrc
+source ~/.bashrc
